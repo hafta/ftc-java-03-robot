@@ -1,0 +1,8 @@
+plugins {
+    id 'application'
+}
+
+application {
+    // The class whose main() runs when you do "./gradlew run".
+    mainClass = 'Robot'
+}
