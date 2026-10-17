@@ -63,7 +63,7 @@ public class Robot {
         robot.printPosition();
 
         // Add code here to get the robot to (7, 3) facing UP.
-        // FOr example:
+        // For example:
         robot.driveForward();
         robot.printPosition();
 
