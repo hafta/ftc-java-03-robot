@@ -2,8 +2,8 @@ public class Robot {
 
     enum Direction { UP, DOWN, LEFT, RIGHT }
 
-    static final int TARGET_X = 7;
-    static final int TARGET_Y = 3;
+    static final int TARGET_X = 71;
+    static final int TARGET_Y = 33;
     static final Direction TARGET_DIRECTION = Direction.UP;
 
     int x;
@@ -62,7 +62,7 @@ public class Robot {
         Robot robot = new Robot();
         robot.printPosition();
 
-        // Add code here to get the robot to (7, 3) facing UP.
+        // Add code here to get the robot to (71, 33) facing UP.
         // For example:
         robot.driveForward();
         robot.printPosition();

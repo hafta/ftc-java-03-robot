@@ -1,6 +1,6 @@
 # Lesson 3: Drive the Robot
 
-The robot starts at x=0, y=0, facing UP. Get it to x=7, y=3, facing UP.
+The robot starts at x=0, y=0, facing UP. Get it to x=71, y=33, facing UP.
 
 | Method | What it does |
 |---|---|
